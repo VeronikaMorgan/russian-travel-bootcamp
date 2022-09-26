@@ -1,0 +1,30 @@
+.places__card-link {
+  text-decoration: none;
+  color: inherit;
+  font-size: 18px;
+  line-height: 22px;
+  border-bottom: 2px white solid;
+  display: flex;
+  flex-direction: column;
+  max-width: fit-content;
+  transition: all 0.3s linear;
+}
+.places__card-link:before {
+  content: 'URL';
+  color: var(--shadowed-color);
+  font-family: inherit;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.places__card-link:hover {
+  color: var(--shadowed-color);
+  border-color: var(--shadowed-color);
+}
+
+
+@media screen and (max-width: 420px){
+  .places__card-link{
+    margin: 0 16px;
+  }
+}

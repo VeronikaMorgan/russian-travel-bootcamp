@@ -1,0 +1,30 @@
+.places__card-img {
+  max-width: 460px;
+  align-self: start;
+}
+
+@media screen and (max-width: 1020px) {
+  .places__card-img {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .places__card-img {
+    max-width: 340px;
+  }
+}
+
+@media screen and (max-width: 660px) {
+  .places__card-img {
+   justify-self: center;
+  }
+}
+
+
+@media screen and (max-width: 320px) {
+  .places__card-img {
+    
+    max-width: 320px;   
+  }
+}

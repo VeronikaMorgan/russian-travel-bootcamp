@@ -1,0 +1,21 @@
+.container_size_sm {
+  margin: 92px 48px 0 48px;
+}
+
+@media screen and (max-width: 1019px){
+  .trip> .container_size_sm {
+    margin: 92px 0 0 0;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .container_size_sm {
+    margin: 88px 24px 0 24px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .container_size_sm {
+    margin: 64px 16px 0 16px;
+  }
+}

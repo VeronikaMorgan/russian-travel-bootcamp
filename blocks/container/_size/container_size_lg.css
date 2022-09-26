@@ -1,0 +1,21 @@
+.container_size_lg {
+  margin: 92px 148px 0 148px;
+}
+
+@media screen and (max-width: 1024px){
+  .container_size_lg {
+    margin: 92px 48px 0 48px ;
+  }
+}
+
+@media screen and (max-width: 767px){
+  .container_size_lg {
+    margin: 88px 24px 0 24px ;
+  }
+}
+
+@media screen and (max-width: 420px){
+  .container_size_lg {
+    margin: 64px 16px 0 16px ;
+  }
+}

@@ -1,0 +1,15 @@
+.footer__link {
+  text-decoration: none;
+  color: inherit;
+  font-size: 16px;
+  line-height: 18px;
+  margin-right: 18px;
+  transition: all 0.3s linear;
+}
+
+.footer__link:last-of-type {
+  margin-right: 0;
+}
+.footer__link:hover {
+  color: var(--shadowed-color);
+}

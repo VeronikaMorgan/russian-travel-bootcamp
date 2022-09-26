@@ -1,0 +1,15 @@
+.trip__wrapper {
+  text-decoration: none;
+  color: inherit;
+  background-image: url('../../../images/trip-background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  min-height: 740px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+}

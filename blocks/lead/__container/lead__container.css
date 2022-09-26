@@ -1,0 +1,12 @@
+@media screen and (max-width: 1024px){
+  .lead__container{
+    margin: 92px 48px 0 48px ;
+   
+  }
+}
+
+@media screen and (max-width: 768px){
+  .lead__container{
+    margin: 92px 0 0 0;
+  }
+}
