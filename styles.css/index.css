@@ -1,10 +1,11 @@
 @import url('../vendor/normalize.css');
 @import url('../fonts/fonts.css');
 @import url('../blocks/page/page.css');
+@import url('../blocks/container/_size/container_size_md.css');
 @import url('../blocks/container/_size/container_size_sm.css');
 @import url('../blocks/container/_size/container_size_lg.css');
 @import url('../blocks/header/header.css');
-@import url('../blocks/header/__container/header__container.css');
+@import url('../blocks/header/__wrapper/header__wrapper.css');
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__links/header__links.css');
 @import url('../blocks/header/__link/header__link.css');
@@ -19,6 +20,7 @@
 @import url('../blocks/intro/__text/intro__text.css');
 @import url('../blocks/intro/__brief/intro__brief.css');
 @import url('../blocks/intro/__brief-item/intro__brief-item.css');
+@import url('../blocks/intro/__brief-data/intro__brief-data.css');
 @import url('../blocks/galary/__wrapper/galary__wrapper.css');
 @import url('../blocks/galary/__item/galary__item.css');
 @import url('../blocks/places/places.css');
@@ -29,6 +31,7 @@
 @import url('../blocks/places/__card-img/places__card-img.css');
 @import url('../blocks/places/__card-content.css/places__card-content.css');
 @import url('../blocks/places/__card-text/places__card-text.css');
+@import url('../blocks/trip/__container/trip__container.css');
 @import url('../blocks/trip/__title/trip__title.css');
 @import url('../blocks/trip/__subtitle/trip__subtitle.css');
 @import url('../blocks/trip/__wrapper/trip__wrapper.css');

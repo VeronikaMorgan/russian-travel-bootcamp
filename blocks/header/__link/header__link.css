@@ -12,3 +12,10 @@
 .header__link:hover {
   border-color: #fff;
 }
+
+@media screen and (max-width: 380px) {
+  .header__link {
+    font-size: 18px;
+    line-height: 20px;
+  }
+}

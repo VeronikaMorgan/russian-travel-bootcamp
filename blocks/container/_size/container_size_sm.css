@@ -1,21 +1,22 @@
 .container_size_sm {
-  margin: 92px 48px 0 48px;
+  padding: 92px 48px 0 48px;
+  box-sizing: border-box;
 }
 
-@media screen and (max-width: 1019px){
-  .trip> .container_size_sm {
-    margin: 92px 0 0 0;
+@media screen and (min-width: 1280px) {
+  .container_size_sm {
+    padding: 92px 148px 0 148px;
   }
 }
 
 @media screen and (max-width: 768px){
   .container_size_sm {
-    margin: 88px 24px 0 24px;
+    padding: 88px 24px 0 24px;
   }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
   .container_size_sm {
-    margin: 64px 16px 0 16px;
+    padding: 64px 16px 0 16px;
   }
 }

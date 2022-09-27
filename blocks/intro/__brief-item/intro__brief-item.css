@@ -4,9 +4,3 @@
   line-height: 18px;
   font-weight: 700;
 }
-
-/* не по бему наверное, неужели писать отдельный класс для 1 числа...*/
-
-.intro__brief-item > span{
-  font-weight: 400;
-}

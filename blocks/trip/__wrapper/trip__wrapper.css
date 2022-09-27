@@ -12,4 +12,30 @@
   justify-content: center;
   position: relative;
   z-index: 1;
+  box-sizing: border-box;
 }
+
+@media screen and (max-width: 1025px) {
+  .trip__wrapper {
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .trip__wrapper {
+    min-height: 480px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .trip__wrapper {
+    min-height: 320px;
+  }
+}
+
+@media screen and (max-width: 380px) {
+  .trip__wrapper {
+    min-height: 200px;
+  }
+}
+
