@@ -9,13 +9,13 @@
   }
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
   .container_size_sm {
     padding: 88px 24px 0 24px;
   }
 }
 
-@media screen and (max-width: 420px){
+@media screen and (max-width: 420px) {
   .container_size_sm {
     padding: 64px 16px 0 16px;
   }

@@ -9,13 +9,13 @@
   text-align: left;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) {
   .lead__image-subtitle {
     margin-left: 24px;
   }
 }
 
-@media screen and (max-width: 420px){
+@media screen and (max-width: 420px) {
   .lead__image-subtitle {
     margin-left: 16px;
   }
