@@ -10,18 +10,18 @@
 
 @media screen and (max-width: 1024px) {
   .container_size_lg {
-    padding: 92px 48px 0 48px ;
+    padding: 92px 48px 0 48px;
   }
 }
 
 @media screen and (max-width: 769px) {
   .container_size_lg {
-    padding: 88px 24px 0 24px ;
+    padding: 88px 24px 0 24px;
   }
 }
 
 @media screen and (max-width: 420px) {
   .container_size_lg {
-    padding: 64px 16px 0 16px ;
+    padding: 64px 16px 0 16px;
   }
 }
