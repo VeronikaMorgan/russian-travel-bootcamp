@@ -3,7 +3,7 @@
   box-sizing: border-box;
 }
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1290px) {
   .container_size_sm {
     padding: 92px 148px 0 148px;
   }
