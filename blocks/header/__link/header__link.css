@@ -8,11 +8,6 @@
   transition: all 0.3s linear;
 }
 
-/* Здесь не должен быть ховер, а скорее указатель-переключатель, но без js никак. Ховер для демонстрации */
-.header__link:hover {
-  border-color: #fff;
-}
-
 @media screen and (max-width: 380px) {
   .header__link {
     font-size: 18px;

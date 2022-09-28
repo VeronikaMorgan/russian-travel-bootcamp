@@ -2,9 +2,10 @@
   padding: 92px 148px 0 148px;
 }
 
-@media screen and (min-width: 1450px) {
+
+@media screen and (min-width: 1730px) {
   .container_size_lg {
-    padding: 92px 300px 0 300px;
+    padding: 92px 420px 0 418px;
   }
 }
 

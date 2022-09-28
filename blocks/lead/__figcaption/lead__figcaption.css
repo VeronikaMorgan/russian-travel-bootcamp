@@ -7,9 +7,10 @@
   font-weight: 400;
   letter-spacing: 2px;
   text-align: left;
+  align-self: flex-start;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 790px) {
   .lead__figcaption {
     margin-left: 24px;
   }

@@ -4,6 +4,7 @@
   font-size: 18px;
   line-height: 22px;
   border-bottom: 2px white solid;
+  overflow-wrap: break-word;
   display: flex;
   flex-direction: column;
   max-width: fit-content;

@@ -1,6 +1,4 @@
 .lead__container {
-  display: flex;
-  flex-direction: column;
   padding-top: 56px;
 }
 
