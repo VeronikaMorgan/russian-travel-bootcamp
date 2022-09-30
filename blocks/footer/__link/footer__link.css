@@ -3,15 +3,11 @@
   color: inherit;
   font-size: 16px;
   line-height: 18px;
-  margin-right: 18px;
-  transition: all 0.3s linear;
+  transition: opacity 0.3s linear;
 }
 
-.footer__link:last-of-type {
-  margin-right: 0;
-}
 .footer__link:hover {
-  color: var(--shadowed-color);
+  opacity: 0.6;
 }
 
 @media screen and (max-width:730px) {
@@ -25,7 +21,5 @@
   .footer__link {
     font-size: 24px;
     line-height: 24px;
-    margin-bottom: 32px;
-    margin-right: 0;
   }
 }

@@ -8,6 +8,10 @@
   transition: all 0.3s linear;
 }
 
+.header__link:hover {
+  opacity: 0.5;
+}
+
 @media screen and (max-width: 380px) {
   .header__link {
     font-size: 18px;

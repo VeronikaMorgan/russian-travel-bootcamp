@@ -1,22 +1,22 @@
-.container_size_sm {
+.main__section_size_sm {
   padding: 92px 48px 0 48px;
   box-sizing: border-box;
 }
 
 @media screen and (min-width: 1290px) {
-  .container_size_sm {
+  .main__section_size_sm {
     padding: 92px 148px 0 148px;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .container_size_sm {
+  .main__section_size_sm {
     padding: 88px 24px 0 24px;
   }
 }
 
 @media screen and (max-width: 420px) {
-  .container_size_sm {
+  .main__section_size_sm {
     padding: 64px 16px 0 16px;
   }
 }

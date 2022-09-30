@@ -1,0 +1,7 @@
+.place__link-decor {
+  text-transform: uppercase;
+  color: var(--shadowed-color);
+  font-size: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+}
