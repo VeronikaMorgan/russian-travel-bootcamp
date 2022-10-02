@@ -5,8 +5,16 @@
   justify-self: flex-end;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width:730px) {
   .footer__copyright {
+    font-size: 10px;
+    line-height: 12px;
+  }
+}
+
+@media screen and (max-width: 506px) {
+  .footer__copyright {
+    font-size: 14px;
     line-height: 14px;
     margin-top: 48px;
   }

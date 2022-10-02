@@ -4,16 +4,17 @@
 @import url('../blocks/body/body.css');
 @import url('../blocks/page/page.css');
 @import url('../blocks/page/__section/page__section.css');
+@import url('../blocks/page/__content/page__content.css');
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__logo/header__logo.css');
 @import url('../blocks/header/__links/header__links.css');
 @import url('../blocks/header/__link/header__link.css');
 @import url('../blocks/header/__link/_active/header__link_active.css');
+@import url('../blocks/main/main.css');
 @import url('../blocks/main/__section/_size/main__section_size_lg.css');
 @import url('../blocks/main/__section/_size/main__section_size_sm.css');
 @import url('../blocks/main/__section/_type/main__section_type_narrow.css');
 @import url('../blocks/main/__section/_type/main__section_type_wide.css');
-@import url('../blocks/lead/__container/lead__container.css');
 @import url('../blocks/lead/__title/lead__title.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
 @import url('../blocks/lead/__image-wrapper/lead__image-wrapper.css');
@@ -27,7 +28,6 @@
 @import url('../blocks/intro/__brief-data/intro__brief-data.css');
 @import url('../blocks/galary/__wrapper/galary__wrapper.css');
 @import url('../blocks/galary/__item/galary__item.css');
-@import url('../blocks/places/places.css');
 @import url('../blocks/places/__cards/places__cards.css');
 @import url('../blocks/places/__card/places__card.css');
 @import url('../blocks/place/place.css');
@@ -38,7 +38,6 @@
 @import url('../blocks/place/__img/place__img.css');
 @import url('../blocks/place/__content/place__content.css');
 @import url('../blocks/place/__text/place__text.css');
-@import url('../blocks/trip/__container/trip__container.css');
 @import url('../blocks/trip/__title/trip__title.css');
 @import url('../blocks/trip/__subtitle/trip__subtitle.css');
 @import url('../blocks/trip/__wrapper/trip__wrapper.css');

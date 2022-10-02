@@ -1,15 +1,9 @@
 .main__section_type_narrow {
-  padding-top: 56px;
-}
-
-@media screen and (max-width: 1025px) {
-  .main__section_type_narrow {
-    padding-top: 48px;
-  }
+  padding-top: 0;
 }
 
 @media screen and (max-width: 790px) {
-  .main__section_type_narrow{
-    padding: 48px 0 0 0;
+  .main__section_type_narrow {
+    padding: 0;
   }
 }

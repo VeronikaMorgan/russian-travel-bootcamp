@@ -1,0 +1,16 @@
+.page__content {
+  padding-top: 56px;
+}
+
+@media screen and (max-width: 1025px) {
+  .page__content {
+    padding-top: 48px;
+  }
+}
+
+
+@media screen and (max-width: 790px) {
+  .page__content {
+    padding-top: 48px;
+  }
+}
