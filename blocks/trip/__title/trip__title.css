@@ -8,7 +8,7 @@
   z-index: 10;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 522px) {
   .trip__title {
     font-size: 32px;
     line-height: 35px;
